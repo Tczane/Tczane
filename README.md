@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tczane
-- 👀 I’m interested in AI
+- 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Web development 
-- 📫 How to reach me through github
+- 💞️ I’m looking to collaborate on web development 
+- 📫 How to reach me is through your github
 - 😄 Pronouns: C'zane
 - ⚡ Fun fact: There is no fun
 
